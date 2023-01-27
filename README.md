@@ -10,6 +10,8 @@
 [![](https://img.shields.io/badge/license-MIT%20License-red.svg?color=lightgray)](https://opensource.org/licenses/MIT) 
 [![](https://img.shields.io/badge/twitter-apps3c-blue.svg)](https://twitter.com/apps3c)
 
+This project was forked from [https://github.com/federicodotta/Brida](https://github.com/federicodotta/Brida) for personal use only.
+
 Brida is a Burp Suite Extension that, working as a bridge between [Burp Suite](https://portswigger.net/burp/) and [Frida](https://www.frida.re/), lets you use and manipulate applications’ own methods while tampering the traffic exchanged between the applications and their back-end services/servers. It supports all platforms supported by Frida (Windows, macOS, Linux, iOS, Android, and QNX).
 
 # Brida Idea
